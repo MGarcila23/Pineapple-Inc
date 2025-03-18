@@ -41,45 +41,21 @@ Usage
 
 Project Structure
 
-Pineapple-Inc/
-├── admin/
-│   ├── includes/
-│   │   ├── database.php
-│   │   ├── footer.php
-│   │   ├── functions.php
-│   │   └── header.php
-│   ├── add_products.php
-│   ├── edit_products.php
-│   ├── index.php
-│   ├── login.php
-│   ├── orders.php
-│   └── products.php
-├── includes/
-│   ├── database.php
-│   ├── footer.php
-│   ├── functions.php
-│   └── header.php
-├── www/
-│   ├── about.php
-│   ├── account.php
-│   ├── add_cart.php
-│   ├── cart.php
-│   ├── create.php
-│   ├── faqs.php
-│   ├── index.php
-│   ├── login.php
-│   ├── productdetails.php
-│   ├── products.php
-│   ├── searchresults.php
-│   └── specials.php
-├── style.css
-└── newcss.css
+
+![image](https://github.com/user-attachments/assets/72a2355a-979c-4522-829b-23debb5d4ca2)
+
+
+
+
 - admin/: Contains files for the administrative backend to manage products and orders.
 - includes/ (root and admin): Contains reusable PHP scripts for database interaction, header, footer, and common functions.
 - www/: Contains the public-facing website files.
 - style.css and newcss.css: Stylesheet files for the website's appearance.
 
 Screenshots
+![image](https://github.com/user-attachments/assets/5dc10b6f-aa58-4151-88ce-6d530e739897)
+![image](https://github.com/user-attachments/assets/29aaf579-ff25-4da7-a18a-c9b97c15196b)
+![image](https://github.com/user-attachments/assets/0a4a3a9f-8eea-42b4-8ad4-eb4b3edac04b)
 
 
 Author
