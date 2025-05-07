@@ -6,6 +6,14 @@ Pineapple Inc. - Your Next PC Starts Here!
 Overview
 Pineapple Inc. is an online platform designed for computer enthusiasts to easily browse, select, and purchase pre-built desktop computers. Our website offers a user-friendly interface to explore a diverse catalog of systems, view detailed specifications, manage a shopping cart, and securely complete orders. We also provide user account management and information about our team and mission.
 
+Demo Link:  
+Part 1 - https://www.loom.com/share/d39ef33b70c4401b920042020f39cbbb?sid=7999f991-942f-4003-b46e-3b1bdd8009a4 
+Part 2 – 
+https://www.loom.com/share/d39ef33b70c4401b920042020f39cbbb?sid=7999f991-942f-4003-b46e-3b1bdd8009a4 
+Part 3 – 
+https://www.loom.com/share/198e00c267f74db28f51fdaa38e8a483?sid=cc63a10f-def1-4cda-839e-75ef8c045b3f
+
+
 Key Features
 - Extensive Product Catalog: Browse a wide selection of pre-built desktop computers.
 - Detailed Product Information: View comprehensive specifications and pricing for each product.
