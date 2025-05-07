@@ -56,6 +56,9 @@ Screenshots
 ![image](https://github.com/user-attachments/assets/5dc10b6f-aa58-4151-88ce-6d530e739897)
 ![image](https://github.com/user-attachments/assets/29aaf579-ff25-4da7-a18a-c9b97c15196b)
 ![image](https://github.com/user-attachments/assets/0a4a3a9f-8eea-42b4-8ad4-eb4b3edac04b)
+![image](https://github.com/user-attachments/assets/574307e5-b458-4b03-8d49-9cfe6a713b18)
+![image](https://github.com/user-attachments/assets/c3f89970-448a-4f97-8385-c8e44fa4ee2f)
+
 
 
 Author
